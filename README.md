@@ -10,7 +10,10 @@ The data in this repository exemplifies the data that was used in the research r
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-ADD DOI
+
+[https://doi.org/10.1287/ijoc.2022.0191](https://doi.org/10.1287/ijoc.2022.0191)
+
+[https://doi.org/10.1287/ijoc.2022.0191.cd](https://doi.org/10.1287/ijoc.2022.0191.cd)
 
 Below is the BibTex for citing this snapshot of the respoitory.
 
@@ -19,10 +22,11 @@ Below is the BibTex for citing this snapshot of the respoitory.
   author =        {Bansal, Ankit and Richard,  Jean-Philippe P and Bjorn, Berg P and Huang, Yu-Li},
   publisher =     {INFORMS Journal on Computing},
   title =         {A Sequential Follower Refinement Algorithm for Robust Surgery Scheduling},
+  doi =           {https://doi.org/10.1287/ijoc.2022.0191.cd},
   year =          {2023},
 }  
 ```
 
 ## Description
 
-An example of instance generation is provided in the data folder. 
+The [data folder]() includes the surgery time data for the instances addressed in this paper.
