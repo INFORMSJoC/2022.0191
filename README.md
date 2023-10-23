@@ -18,7 +18,7 @@ To cite the contents of this repository, please cite both the paper and this rep
 Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
-@article{CacheTest,
+@article{A Sequential Follower Refinement Algorithm for Robust Surgery Scheduling,
   author =        {Bansal, Ankit and Richard,  Jean-Philippe P and Bjorn, Berg P and Huang, Yu-Li},
   publisher =     {INFORMS Journal on Computing},
   title =         {A Sequential Follower Refinement Algorithm for Robust Surgery Scheduling},
