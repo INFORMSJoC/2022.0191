@@ -18,12 +18,13 @@ To cite the contents of this repository, please cite both the paper and this rep
 Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
-@article{A Sequential Follower Refinement Algorithm for Robust Surgery Scheduling,
+@article{SFR,
   author =        {Bansal, Ankit and Richard,  Jean-Philippe P and Bjorn, Berg P and Huang, Yu-Li},
   publisher =     {INFORMS Journal on Computing},
   title =         {A Sequential Follower Refinement Algorithm for Robust Surgery Scheduling},
-  doi =           {https://doi.org/10.1287/ijoc.2022.0191.cd},
+  doi =           {10.1287/ijoc.2022.0191.cd},
   year =          {2023},
+  note =          {https://github.com/INFORMSJoC/2022.0191}
 }  
 ```
 
