@@ -30,4 +30,4 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ## Description
 
-The [data folder]() includes the surgery time data for the instances addressed in this paper.
+The [data folder]() includes the surgery time data for the instances addressed in this paper. The MATLAB codes are available upon request.
